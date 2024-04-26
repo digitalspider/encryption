@@ -3,6 +3,7 @@ NodeJS examples of encryption, RSA, AES, and Hashing (SHA3-256)
 
 See also:
 * https://www.sohamkamani.com/nodejs/rsa-encryption/
+* https://nodejs.org/api/crypto.html
 * https://blog.soykaf.com/post/encryption/
 * https://soatok.blog/2022/11/22/towards-end-to-end-encryption-for-direct-messages-in-the-fediverse/
 * https://medium.com/@TalBeerySec/the-ambassador-protocol-multi-device-e2ee-with-privacy-5c906a2d210a
