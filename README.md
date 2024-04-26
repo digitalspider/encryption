@@ -8,5 +8,3 @@ See also:
 * https://medium.com/@TalBeerySec/the-ambassador-protocol-multi-device-e2ee-with-privacy-5c906a2d210a
 * https://github.com/mastodon/mastodon/issues/19565
 * https://themarkup.org/the-breakdown/2022/11/21/we-joined-mastodon-heres-what-we-learned-about-privacy-and-security
-* https://www.neowin.net/news/admin-of-an-anarchist-mastodon-server-raided-by-fbi-insecure-user-data-gets-seized/
-
